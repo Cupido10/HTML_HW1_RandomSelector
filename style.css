@@ -1,0 +1,22 @@
+h1{
+    color:yellow;
+    font-weight: bold;
+    font-size: 65px;
+    padding-top: 1%;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+    font-size: 150%;
+}
+
+ol{
+    text-align: left;
+    font-weight: bold;
+    font-size: 28px;
+    
+    padding-left: 10%;
+    color: lightblue;
+}
